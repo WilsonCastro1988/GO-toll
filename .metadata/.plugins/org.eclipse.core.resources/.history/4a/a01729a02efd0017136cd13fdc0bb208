@@ -1,0 +1,13 @@
+import ec.epn.edu.kotlin.Alien
+
+
+fun main(args:Array<String>)
+{
+	
+	var alien = Alien()
+	
+	alien.nombre = "Kotlin alien"
+	println("Hello Kotlin Alien desde clase java: "+alien.nombre)
+}
+
+

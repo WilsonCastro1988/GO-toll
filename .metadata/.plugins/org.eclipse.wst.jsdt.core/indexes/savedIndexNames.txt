@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\DESARROLLO\eclipsekotlin-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+920143304.index
+1366317964.index
+3133654791.index
+176557835.index
+3542024557.index
+4067202796.index
